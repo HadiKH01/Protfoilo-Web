@@ -1,0 +1,214 @@
+body{
+    background-color: black;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #f0f0f0;
+}
+.head1{
+    color: #3ac6cf;
+    display: flex;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 10px 20px;
+}
+.navbar a{
+    text-decoration: none;
+    color: #3ac6cf;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px 20px;
+    transition: 0.7s ease;
+}
+.navbar a:hover{
+    transform: scale(1.1);
+    color: #3a6fcf;
+}
+.home{
+    margin-left: 300px;
+    margin-top: 100px;
+    background-color: black;
+}
+.head2{
+    color: white;
+}
+.par1{
+    color: #3a6fcf;
+    font-size: 50px;
+    font-weight: 800;
+    margin-left: -50px;
+    margin-top: -20px;
+}
+.par2{
+    color: #fff;
+    margin-top: -30px;
+    font-weight: 700;
+}
+.btn1{
+    margin-top: 20px;
+    background-color: #3a6fcf;
+    color: #Fff;
+    font-weight: 800;
+    height: 40px;
+    border-radius: 15px;
+    transition: 0.7s ease;
+}
+.btn1:hover{
+    transform: scale(1.1);
+}
+.content{
+    margin-left: 650px;
+    margin-top: -235px;
+}
+.head3{
+    color: #fff;
+    display: flex;
+    font-weight: 800;
+    margin-left: 20px;
+}
+.head3:hover{
+    text-decoration: underline;
+}
+.experince ul{
+    color: #3a6fcf;
+    font-size: 20px;
+    font-weight: 700;
+    border: 5px solid #f0f0f0;
+    padding-left: -50px;
+    margin: 30px;
+    transition: 0.7s ease;
+}
+.experince ul:hover{
+    transform: scale(1.1);
+}
+.about{
+    margin-bottom: 50px;
+}
+.head4{
+    color: #fff;
+    display: flex;
+    align-items : center;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 120px;
+}
+.card1{
+    margin-left: 100px;
+    margin-top: 100px;
+    border: 3px solid #f0f0f0;
+    border-radius: 10px;
+    width: 300px;
+    transition: 0.7s ease;
+}
+.card1:hover{
+    transform: scale(1.1);
+}
+.head5{
+    color: #3a6fcf;
+    padding-left: 30px;
+}
+.par3{
+    color: #fff;
+    width: 150px;
+    padding-left: 50px;
+    font-weight: 700;
+}
+.card2{
+    margin-left: 500px;
+    margin-top: -200px;
+    border: 3px solid #f0f0f0;
+    border-radius: 10px;
+    width: 300px;
+    transition: 0.7s ease;
+}
+.card2:hover{
+    transform: scale(1.1);
+}
+.head6{
+    color: #3a6fcf;
+    padding-left: 30px;
+}
+.par4{
+    color: #fff;
+    width: 150px;
+    padding-left: 50px;
+    font-weight: 700;
+}
+.card3{
+    margin-left: 900px;
+    margin-top: -200px;
+    border: 3px solid #f0f0f0;
+    border-radius: 10px;
+    width: 300px;
+    transition: 0.7s ease;
+}
+.card3:hover{
+    transform: scale(1.1);
+}
+.head7{
+    color: #3a6fcf;
+    padding-left: 30px;
+}
+.par5{
+    color: #fff;
+    width: 150px;
+    padding-left: 50px;
+    font-weight: 700;
+}
+.head8{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    margin-top: 150px;
+}
+.email1{
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+.email2{
+    display: flex;
+    color: #3a6fcf;
+    font-size: 50px;
+    font-weight: 800;
+}
+.email2:hover{
+    text-decoration: underline;
+}
+.email3{
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
+    transition: 0.7s ease;
+}
+.email3:hover{
+    transform: scale(1.1);
+}
+.email4{
+    margin-left: 700px;
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+.email5{
+    display: flex;
+    color: #3a6fcf;
+    font-size: 50px;
+    font-weight: 800;
+    margin-top: -335px;
+}
+.email5:hover{
+    text-decoration: underline;
+}
+.email6{
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
+    transition: 0.7s ease;
+}
+.email6:hover{
+    transform: scale(1.1);
+}
